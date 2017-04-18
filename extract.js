@@ -1,4 +1,6 @@
 /*eslint-disable no-unused-vars*/
+/* global require module __dirname*/
+
 var path = require('path');
 
 var extractFilePath = function (url) {

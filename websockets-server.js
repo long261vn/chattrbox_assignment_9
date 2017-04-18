@@ -1,4 +1,5 @@
 /*eslint-disable no-unused-vars*/
+/* global require */
 var WebSocket = require('ws');
 var WebSocketServer = WebSocket.Server;
 var port = 3001;

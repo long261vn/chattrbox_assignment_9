@@ -1,4 +1,5 @@
 /*eslint-disable no-unused-vars*/
+/* global require */
 var http = require('http');
 var fs = require('fs');
 var extract = require('./extract');
